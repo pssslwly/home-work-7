@@ -1,0 +1,7 @@
+.info{
+    display: flex;
+    box-sizing: border-box;
+}
+.list{
+    display: block;
+}
